@@ -20,4 +20,8 @@ D Residual-current device two pole with reset
 K RCD two-pole
 $ENDCMP
 #
+$CMP Relais_2P
+D Circuit breaker 2 pole
+$ENDCMP
+#
 #End Doc Library
