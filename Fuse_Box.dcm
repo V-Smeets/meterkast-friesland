@@ -6,4 +6,8 @@ K switch four-pole single-throw
 F ~
 $ENDCMP
 #
+$CMP CB_2P
+D Circuit breaker 2 pole
+$ENDCMP
+#
 #End Doc Library
