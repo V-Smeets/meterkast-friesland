@@ -10,4 +10,9 @@ $CMP CB_2P
 D Circuit breaker 2 pole
 $ENDCMP
 #
+$CMP RCD_2P
+D Residual-current device two pole
+K RCD two-pole
+$ENDCMP
+#
 #End Doc Library
