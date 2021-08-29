@@ -15,4 +15,9 @@ D Residual-current device two pole
 K RCD two-pole
 $ENDCMP
 #
+$CMP RCD_2P_with_reset
+D Residual-current device two pole with reset
+K RCD two-pole
+$ENDCMP
+#
 #End Doc Library
